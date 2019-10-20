@@ -4,7 +4,7 @@ bash git aliases
 add next rows to .bash_profile for your easy work in git
 
 
-alias ga='git add'
+alias ga='git add'\n
 alias gi='git init'
 alias gs='git status'
 alias gc='git commit -m'
